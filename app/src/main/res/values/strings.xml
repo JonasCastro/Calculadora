@@ -1,16 +1,20 @@
 <resources>
     <string name="app_name">Calculadora</string>
-
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-
     <string name="action_settings">Settings</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="title_activity_main2">Main2Activity</string>
-    <string name="section_format">Hello World from section: %1$d</string>
-    <string name="title_activity_main3">Main3Activity</string>
-    <string name="title_activity_apag">APAGA</string>
-    <string name="title_activity_apagar">apagar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="lbl_concentrao">Concentraçao:</string>
+    <string name="lbl_massa">Massa:</string>
+    <string name="lbl_volume">Volume:</string>
+    <string name="text_btnIgualdade">=</string>
+    <string name="text_btnLimpar">Limpar</string>
+    <string name="lbl_molaridade">Molaridade:</string>
+    <string name="lbl_massa_molar">Massa Molar:</string>
+    <string name="lbl_limpar">Limpar</string>
+    <string name="lbl_btnIgualdade">=</string>
+    <string name="lbl_n_de_mols">N.° de Mols:</string>
+    <string name="lbl_fab_fn">Fornecer N.° de mols</string>
+    <string name="lbl_fab_calc">Calcular N.° de mols</string>
 </resources>
